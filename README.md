@@ -16,7 +16,7 @@
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Mui/Gt/MuiGt/output/snake.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/MuiGt/MuiGt/output/snake.svg" alt="Snake animation">
 
 
 
